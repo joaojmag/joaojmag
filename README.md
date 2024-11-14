@@ -1,7 +1,7 @@
 </h1>Olá sou o João Marcelo 👋</h1>
 
-- 🔭 I’m currently working on: E.E. J. B. Hermesto
-- 🌱 I’m currently learning: Python 
+- 🔭 I’m currently working on: YouX
+- 🌱 I’m currently learning: Java 
 - 👯 I’m looking to collaborate on: Nada por enquanto 
 - 🤔 I’m looking for help with: Oportunidades !
 - 💬 Ask me about: Linux ;)
